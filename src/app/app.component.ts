@@ -5,6 +5,7 @@ import { Component } from '@angular/core';
   template: `
       <h1>
         Welcome to GIT !
+        this is second line
       </h1>
   `,
   styles: []

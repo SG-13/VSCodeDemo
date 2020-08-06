@@ -7,6 +7,7 @@ import { Component } from '@angular/core';
         Welcome to GIT !
         this is second line
         this is third line
+        this is fourth line
       </h1>
   `,
   styles: []
